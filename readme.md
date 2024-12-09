@@ -14,4 +14,12 @@ In this paper, LLM agent shows remarkable performance that achieving Kaggle Gran
 
 * 12 Oct 2024 [OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models](https://arxiv.org/abs/2410.09671)
 This work release a light, integrated framework to facilitate the RL-based fine-tune of LLM.
+
+* 4 Oct 2024 [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
+
+* 18 Mar 2024 [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
+
+* [STEP-DPO: STEP-WISE PREFERENCE OPTIMIZATION FOR LONG-CHAIN REASONING OF LLMS](https://arxiv.org/abs/2406.18629)
+By lots of experiments, this work draw a conclusion that training a LLM with step by step data could significantly enhance the ability of reasoning. They mention that step-DPO could even enhance the performance of LLM after RLHF, which indicates that step-DPO could complement RLHF effectively.
+
 ## Blogs 
