@@ -39,6 +39,8 @@ They introduce a new type of fine-tunning based on reinforcement learning. It on
 
 [Qwen2.5-72B-instruct (quantized gguf)](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct-GGUF/tree/main): quantized verison of Qwen2.5-72B
 
+[Qwen2.5-Coder-32B](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct/tree/main): 32B sized model with outstanding performance on coding tasks, based on livebench score.
+
 [QwQ-32B-preview](https://huggingface.co/Qwen/QwQ-32B-Preview): released by Ali. 
 
 [marco-1](https://huggingface.co/AIDC-AI/Marco-o1): released by Ali. It utilizes the MCTS in reasoning. The performance on translation is emphasized in their paper.
