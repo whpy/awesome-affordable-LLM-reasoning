@@ -12,6 +12,6 @@ This work use mcts to enhance the capability of reasoning. It is remarkable that
 * 5 Nov 2024 [Large Language Models Orchestrating Structured Reasoning Achieve Kaggle Grandmaster Leve](https://arxiv.org/pdf/2411.03562)
 In this paper, LLM agent shows remarkable performance that achieving Kaggle Grandmaster in kaggle competition. It introduces a method to enhance the performance of LLM agent by utilizing the historical data.
 
-* [OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models](https://arxiv.org/abs/2410.09671)
+* 12 Oct 2024 [OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models](https://arxiv.org/abs/2410.09671)
 This work release a light, integrated framework to facilitate the RL-based fine-tune of LLM.
 ## Blogs 
