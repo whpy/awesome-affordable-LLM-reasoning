@@ -5,6 +5,8 @@ This is a collection of research papers & blogs for affordable methods capable o
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## Papers
+* 2 Dec 2024 [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/pdf/2412.01928)
+It is about training multi-LLMagents system.
 * 18 Nov 2024 [ReST-MCTS∗: LLM Self-Training via Process Reward
 Guided Tree Search](https://keg.cs.tsinghua.edu.cn/jietang/publications/NeurIPS24-Zhang-et-al-ReST-MCTS.pdf#:~:text=traces%20as%20well%20as%20per-step%20value%20to%20train,is%20able%20to%20infer%20the%20correct%20process%20reward)
 This work use mcts to enhance the capability of reasoning. It is remarkable that in their github repo, there is only small amount of examples. It may indicate that such methods only require small amount of data.
@@ -23,6 +25,9 @@ This work release a light, integrated framework to facilitate the RL-based fine-
 By lots of experiments, this work draw a conclusion that training a LLM with step by step data could significantly enhance the ability of reasoning. They mention that step-DPO could even enhance the performance of LLM after RLHF, which indicates that step-DPO could complement RLHF effectively.
 
 * 17 Jun 2024 [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/pdf/2405.00451) [![](https://img.shields.io/badge/github-repo-blue)](https://github.com/YuxiXie/MCTS-DPO)
+
+* 22 May 2024 [ReFT](https://arxiv.org/pdf/2404.03592)
+They introduce a new type of fine-tunning based on reinforcement learning. It only requires a small amount of examples for fine-tunning a language model.
 
 ## Blogs 
 
