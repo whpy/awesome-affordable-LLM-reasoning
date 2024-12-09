@@ -1,0 +1,11 @@
+--2024-12-09 23:02:06--  https://arxiv.org/pdf/2412.00154
+Resolving arxiv.org (arxiv.org)... 151.101.131.42, 151.101.67.42, 151.101.3.42, ...
+Connecting to arxiv.org (arxiv.org)|151.101.131.42|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1693495 (1.6M) [application/pdf]
+Saving to: ‘2412.00154’
+
+2412.00154                  0%[                                      ]       0  --.-KB/s               2412.00154                100%[=====================================>]   1.61M  --.-KB/s    in 0.1s    
+
+2024-12-09 23:02:06 (11.1 MB/s) - ‘2412.00154’ saved [1693495/1693495]
+

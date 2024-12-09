@@ -5,6 +5,7 @@ This is a collection of research papers & blogs for affordable methods capable o
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## Papers
+* 29 Nov 2024 [O1-CODER: AN O1 REPLICATION FOR CODING](https://arxiv.org/pdf/2412.00154)
 * 2 Dec 2024 [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/pdf/2412.01928)
 It is about training multi-LLMagents system.
 * 18 Nov 2024 [ReST-MCTS∗: LLM Self-Training via Process Reward
