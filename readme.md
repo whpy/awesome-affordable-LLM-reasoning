@@ -37,6 +37,8 @@ They introduce a new type of fine-tunning based on reinforcement learning. It on
 ## Powerful open-sourced small language models (SLM)
 [Qwen2.5-72B-instruct](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): Ranked 1st among open-sourced models on the coding leaderboard of [livebench](https://livebench.ai/#/?Reasoning=a&Coding=a&Mathematics=a&Data+Analysis=a).
 
+[Qwen2.5-72B-instruct (quantized gguf)](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct-GGUF/tree/main): quantized verison of Qwen2.5-72B
+
 [QwQ-32B-preview](https://huggingface.co/Qwen/QwQ-32B-Preview): released by Ali. 
 
 [marco-1](https://huggingface.co/AIDC-AI/Marco-o1): released by Ali. It utilizes the MCTS in reasoning. The performance on translation is emphasized in their paper.
