@@ -26,7 +26,18 @@ By lots of experiments, this work draw a conclusion that training a LLM with ste
 
 ## Blogs 
 
-## Benchmark of open-sourced small language models (SLM)
-### syslm
+## Local configuration tricks
 
-### livebench
+
+## Powerful open-sourced small language models (SLM)
+[Qwen2.5-72B-instruct](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): Ranked 1st among open-sourced models on the coding leaderboard of [livebench](https://livebench.ai/#/?Reasoning=a&Coding=a&Mathematics=a&Data+Analysis=a).
+
+[QwQ-32B-preview](https://huggingface.co/Qwen/QwQ-32B-Preview): released by Ali. 
+
+[marco-1](https://huggingface.co/AIDC-AI/Marco-o1): released by Ali. It utilizes the MCTS in reasoning. The performance on translation is emphasized in their paper.
+
+[OpenCoder](https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e): claims that the performance on coding related task could 
+### benchmarks
+[syslm](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard): benchmarks claims that "hard for LLM to cheat."
+
+[livebench](https://livebench.ai/#/?Reasoning=a&Coding=a&Mathematics=a&Data+Analysis=a): popular benchmark for evaluating performance of LLM.
