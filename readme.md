@@ -19,7 +19,14 @@ This work release a light, integrated framework to facilitate the RL-based fine-
 
 * 18 Mar 2024 [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 
-* [STEP-DPO: STEP-WISE PREFERENCE OPTIMIZATION FOR LONG-CHAIN REASONING OF LLMS](https://arxiv.org/abs/2406.18629)
+* 26 Jun 2024 [STEP-DPO: STEP-WISE PREFERENCE OPTIMIZATION FOR LONG-CHAIN REASONING OF LLMS](https://arxiv.org/abs/2406.18629)
 By lots of experiments, this work draw a conclusion that training a LLM with step by step data could significantly enhance the ability of reasoning. They mention that step-DPO could even enhance the performance of LLM after RLHF, which indicates that step-DPO could complement RLHF effectively.
 
+* 17 Jun 2024 [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/pdf/2405.00451) [![](https://img.shields.io/badge/github-repo-blue)](https://github.com/YuxiXie/MCTS-DPO)
+
 ## Blogs 
+
+## Benchmark of open-sourced small language models (SLM)
+### syslm
+
+### livebench
