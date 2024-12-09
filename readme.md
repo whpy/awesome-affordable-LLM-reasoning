@@ -33,8 +33,7 @@ They introduce a new type of fine-tunning based on reinforcement learning. It on
 ## Blogs 
 
 ## Local configuration tricks
-
-
+* [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF): A lite library for RL-based methods in fine-tunning
 ## Powerful open-sourced small language models (SLM)
 [Qwen2.5-72B-instruct](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): Ranked 1st among open-sourced models on the coding leaderboard of [livebench](https://livebench.ai/#/?Reasoning=a&Coding=a&Mathematics=a&Data+Analysis=a).
 
