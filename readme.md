@@ -20,6 +20,9 @@ This work release a light, integrated framework to facilitate the RL-based fine-
 
 * 4 Oct 2024 [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917)
 
+* 12 Aug 2024 [MUTUAL REASONING MAKES SMALLER LLMS STRONGER PROBLEM-SOLVERS](https://arxiv.org/pdf/2408.06195) [![](https://img.shields.io/badge/github-repo-blue)](https://github.com/zhentingqi/rStar)
+This work investigates how to make small language models perform as well as the large models by introducing mcts-based methods.  
+
 * 18 Mar 2024 [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 
 * 26 Jun 2024 [STEP-DPO: STEP-WISE PREFERENCE OPTIMIZATION FOR LONG-CHAIN REASONING OF LLMS](https://arxiv.org/abs/2406.18629)
@@ -35,6 +38,8 @@ They introduce a new type of fine-tunning based on reinforcement learning. It on
 ## Local configuration tricks
 * [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF): A lite library for RL-based methods in fine-tunning
 ## Powerful open-sourced small language models (SLM)
+[BitNet](https://github.com/microsoft/BitNet): An architecture of LLM which manipulate several bits rather than those with long bytes.
+
 [Qwen2.5-72B-instruct](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct): Ranked 1st among open-sourced models on the coding leaderboard of [livebench](https://livebench.ai/#/?Reasoning=a&Coding=a&Mathematics=a&Data+Analysis=a).
 
 [Qwen2.5-72B-instruct (quantized gguf)](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct-GGUF/tree/main): quantized verison of Qwen2.5-72B
