@@ -23,8 +23,6 @@ This work release a light, integrated framework to facilitate the RL-based fine-
 * 12 Aug 2024 [MUTUAL REASONING MAKES SMALLER LLMS STRONGER PROBLEM-SOLVERS](https://arxiv.org/pdf/2408.06195) [![](https://img.shields.io/badge/github-repo-blue)](https://github.com/zhentingqi/rStar)
 This work investigates how to make small language models perform as well as the large models by introducing mcts-based methods.  
 
-* 18 Mar 2024 [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
-
 * 26 Jun 2024 [STEP-DPO: STEP-WISE PREFERENCE OPTIMIZATION FOR LONG-CHAIN REASONING OF LLMS](https://arxiv.org/abs/2406.18629)
 By lots of experiments, this work draw a conclusion that training a LLM with step by step data could significantly enhance the ability of reasoning. They mention that step-DPO could even enhance the performance of LLM after RLHF, which indicates that step-DPO could complement RLHF effectively.
 
@@ -32,6 +30,8 @@ By lots of experiments, this work draw a conclusion that training a LLM with ste
 
 * 22 May 2024 [ReFT](https://arxiv.org/pdf/2404.03592)
 They introduce a new type of fine-tunning based on reinforcement learning. It only requires a small amount of examples for fine-tunning a language model.
+
+* 18 Mar 2024 [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 
 ## Blogs 
 
