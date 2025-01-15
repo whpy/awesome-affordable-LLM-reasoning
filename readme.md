@@ -37,6 +37,7 @@ They introduce a new type of fine-tunning based on reinforcement learning. It on
 ## Blogs 
 * [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)
 ## Local configuration tricks
+* [spectaculative decoding](https://arxiv.org/pdf/2401.07851v2)
 * [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF): A lite library for RL-based methods in fine-tunning
 ## Powerful open-sourced small language models (SLM)
 [DeepSeek_v3](https://huggingface.co/unsloth/DeepSeek-V3-GGUF): A Large model that could be run on local 4090Ti under Q2 quantization.
