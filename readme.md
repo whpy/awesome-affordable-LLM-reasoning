@@ -5,7 +5,8 @@ This is a collection of research papers & blogs for affordable methods capable o
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## Papers
-* 6 Jan 2025 [Process Reinforcement Through Implicit Rewards](https://github.com/PRIME-RL/PRIME): 
+* 13 Jan 2025 [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/): this repo release the data and the method about how to train a small model with outstanding reasoning ability as o1-preview. The claims that the model Sky-T1 is more well rounded over code, math, report, compared with qwq and o1.
+* 6 Jan 2025 [Process Reinforcement Through Implicit Rewards](https://github.com/PRIME-RL/PRIME): This group release a new type of training which do not require explicit reward function. 
 * 2 Dec 2024 [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/pdf/2412.01928)
 It is about training multi-LLMagents system.
 * 29 Nov 2024 [O1-CODER: AN O1 REPLICATION FOR CODING](https://arxiv.org/pdf/2412.00154)
