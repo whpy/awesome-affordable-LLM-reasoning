@@ -5,6 +5,7 @@ This is a collection of research papers & blogs for affordable methods capable o
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## Papers
+* 22 Jan 2025 [DeepSeek-R1](https://arxiv.org/abs/2501.12948): the deepseek group release a powerful open-source model. They also release the small models distilled by the powerful model.
 * 13 Jan 2025 [Sky-T1: Train your own O1 preview model within $450](https://novasky-ai.github.io/posts/sky-t1/): this repo release the data and the method about how to train a small model with outstanding reasoning ability as o1-preview. The claims that the model Sky-T1 is more well rounded over code, math, report, compared with qwq and o1.
 * 6 Jan 2025 [Process Reinforcement Through Implicit Rewards](https://github.com/PRIME-RL/PRIME): This group release a new type of training which do not require explicit reward function. 
 * 2 Dec 2024 [MALT: Improving Reasoning with Multi-Agent LLM Training](https://arxiv.org/pdf/2412.01928)
@@ -36,6 +37,7 @@ They introduce a new type of fine-tunning based on reinforcement learning. It on
 * 18 Mar 2024 [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 
 ## Blogs 
+* [required vram for LLMs fine-tunning in different size](https://www.reddit.com/r/LocalLLaMA/comments/18o5u0k/helpful_vram_requirement_table_for_qlora_lora_and/?rdt=48995)
 * [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)
 ## Local configuration tricks
 * [spectaculative decoding](https://arxiv.org/pdf/2401.07851v2)
