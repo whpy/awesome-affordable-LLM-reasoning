@@ -39,6 +39,7 @@ They introduce a new type of fine-tunning based on reinforcement learning. It on
 * 18 Mar 2024 [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629)
 
 ## Blogs 
+* [OneBit: Towards Extremely Low-bit Large Language Models](https://github.com/xuyuzhuang11/OneBit): A work to extremely quantize LLM.
 * [Open-R1](https://huggingface.co/blog/open-r1): A project hosted by huggingface to reproduce DeepSeek-R1.
 * [Required vram for LLMs fine-tunning in different size](https://www.reddit.com/r/LocalLLaMA/comments/18o5u0k/helpful_vram_requirement_table_for_qlora_lora_and/?rdt=48995)
 * [Process Reinforcement through Implicit Rewards](https://curvy-check-498.notion.site/Process-Reinforcement-through-Implicit-Rewards-15f4fcb9c42180f1b498cc9b2eaf896f)
@@ -61,7 +62,7 @@ They introduce a new type of fine-tunning based on reinforcement learning. It on
 [marco-1](https://huggingface.co/AIDC-AI/Marco-o1): released by Ali. It utilizes the MCTS in reasoning. The performance on translation is emphasized in their paper.
 
 [OpenCoder](https://huggingface.co/collections/infly/opencoder-672cec44bbb86c39910fb55e): claims that the performance on coding related task could 
-### benchmarks
+### Benchmarks
 [syslm](https://huggingface.co/spaces/lmarena-ai/chatbot-arena-leaderboard): benchmarks claims that "hard for LLM to cheat."
 
 [livebench](https://livebench.ai/#/?Reasoning=a&Coding=a&Mathematics=a&Data+Analysis=a): popular benchmark for evaluating performance of LLM.
