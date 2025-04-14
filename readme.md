@@ -5,7 +5,12 @@ This is a collection of research papers & blogs for affordable methods capable o
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## Papers
+
 * 08 Apr 2025 [Deepcoder](https://www.together.ai/blog/deepcoder): A 14B reasoning model that finetuned for coding. Notably, they release a detail recipe for RL finetuning including dataset, environments and RL method used.
+* 12 Mar 2025 [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516): This work presents a foundational framework and workflow for training large language models (LLMs) to handle retrieval-augmented generation (RAG), aiming to enhance reasoning performance using methods such as GRPO. The study yields several notable findings: (1) GRPO demonstrates faster convergence than PPO across all evaluated settings; (2) both PPO and GRPO achieve comparable final reward performance.
+Compared with the 14B model, SEARCH-R1 consistently outperforms all baseline methods across the evaluated metrics. Furthermore, increasing the model size leads to consistent performance gains with SEARCH-R1, highlighting the benefits of LLM size scaling in our approach. 
+The experiments are conducted using Qwen-2.5-3B and Qwen-2.5-7B as base models, trained on 8 × H100 GPUs. 
+
 * 25 Feb 2025 [SoS1: O1 and R1-Like Reasoning LLMs are Sum-of-Square Solvers](https://arxiv.org/abs/2502.20545): For the model with size only 14B trained by 2 A100 on 1k dataset, SoS1 find out the new example of Hilbert problem.
 * 11 Feb 2025 [CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction](https://arxiv.org/html/2502.07316v1#S3): In this work, DeepSeek introduce a new method to generate COT from the source code.
 * 06 Feb 2025 [s1: Simple test-time scaling](https://arxiv.org/html/2501.19393v2): In this work, they claim that they fine-tune a small model (s1-32B, based on Qwen-series) that performs better than o1. There are two noted works. First, they curate a small dataset s1K of 1,000 questions paired with reasoning traces. Second, they develop budget forcing to control test-time compute by forcefully terminating the model’s thinking process. 
