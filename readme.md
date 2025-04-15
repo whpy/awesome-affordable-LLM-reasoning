@@ -7,6 +7,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 ## Papers
 
 * 08 Apr 2025 [Deepcoder](https://www.together.ai/blog/deepcoder): A 14B reasoning model that finetuned for coding. Notably, they release a detail recipe for RL finetuning including dataset, environments and RL method used.
+* [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118): An RL method for training reasoning model with higher efficiency. 
 * 12 Mar 2025 [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516): This work presents a foundational framework and workflow for training large language models (LLMs) to handle retrieval-augmented generation (RAG), aiming to enhance reasoning performance using methods such as GRPO. The study yields several notable findings: (1) GRPO demonstrates faster convergence than PPO across all evaluated settings; (2) both PPO and GRPO achieve comparable final reward performance.
 Compared with the 14B model, SEARCH-R1 consistently outperforms all baseline methods across the evaluated metrics. Furthermore, increasing the model size leads to consistent performance gains with SEARCH-R1, highlighting the benefits of LLM size scaling in our approach. 
 The experiments are conducted using Qwen-2.5-3B and Qwen-2.5-7B as base models, trained on 8 × H100 GPUs. 
