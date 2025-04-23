@@ -5,7 +5,7 @@ This is a collection of research papers & blogs for affordable methods capable o
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## Papers
-
+* 14 Apr 2025 [MegaMath: Pushing the Limits of Open Math Corpora](https://arxiv.org/abs/2504.02807): An open, large-scale, high-quality corpus tailored to the demands of math-centric LLM pre-training.
 * 08 Apr 2025 [Deepcoder](https://www.together.ai/blog/deepcoder): A 14B reasoning model that finetuned for coding. Notably, they release a detail recipe for RL finetuning including dataset, environments and RL method used.
 * [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118): An RL method for training reasoning model with higher efficiency. 
 * 12 Mar 2025 [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516): This work presents a foundational framework and workflow for training large language models (LLMs) to handle retrieval-augmented generation (RAG), aiming to enhance reasoning performance using methods such as GRPO. The study yields several notable findings: (1) GRPO demonstrates faster convergence than PPO across all evaluated settings; (2) both PPO and GRPO achieve comparable final reward performance.
