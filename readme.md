@@ -5,6 +5,7 @@ This is a collection of research papers & blogs for affordable methods capable o
 And the repository will be continuously updated to track the frontier of LLM Reasoning.
 
 ## Papers
+* 02 May 2025 [LoRI: Reducing Cross-Task Interference in Multi-Task Low-Rank Adaptation](https://arxiv.org/abs/2504.07448): In this work, the authors highlight that LoRA matrices still contain a considerable amount of redundant parameters. To address this, they propose LoRI, which significantly reduces the number of trainable parameters while maintaining strong task performance.
 * 25 Apr 2025 [RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning](https://www.arxiv.org/abs/2504.20073): A comprehensive work about applying GRPO method on training agent to accomplish multi-round tasks.
 * 14 Apr 2025 [MegaMath: Pushing the Limits of Open Math Corpora](https://arxiv.org/abs/2504.02807): An open, large-scale, high-quality corpus tailored to the demands of math-centric LLM pre-training.
 * 08 Apr 2025 [Deepcoder](https://www.together.ai/blog/deepcoder): A 14B reasoning model that finetuned for coding. Notably, they release a detail recipe for RL finetuning including dataset, environments and RL method used.
